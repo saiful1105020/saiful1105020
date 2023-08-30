@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Saiful
-- 👀 I’m interested in tackling climate change using machine learning, and making healthcare more accessible by applying computational techniques.
-- 🌱 I’m currently trying to enhance my deep learning skills
-- 💞️ I’m looking to collaborate on climate change research where AI can help
+- 👀 I’m interested in making healthcare more accessible by applying computational techniques.
+- 🌱 My Ph.D. research is generously supported by Google.
 - 📫 Email me at mislam6@ur.rochester.edu
 
 <!---
