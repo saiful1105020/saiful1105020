@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saiful
-- 👀 I’m interested in making healthcare more accessible by applying computational techniques.
+- ✨ I’m interested in making healthcare more accessible by applying computational techniques.
 - 🌱 My Ph.D. research is generously supported by a Google PhD Fellowship.
-- Check out a live demo of a Parkinson's screening tool (my PhD work): https://parktest.net/demo
+- 👀 Check out a live demo of a Parkinson's screening tool (my PhD work): https://parktest.net/demo
 - 📫 Email me at mislam6@ur.rochester.edu
 
 <!---
